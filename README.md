@@ -1,1 +1,2 @@
 # methodOlusturma
+www.patika.dev
